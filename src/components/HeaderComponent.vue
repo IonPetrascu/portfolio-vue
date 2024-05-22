@@ -62,6 +62,7 @@ h1 {
 .nav-list {
   display: flex;
   gap: 60px;
+  align-items: center;
 }
 
 nav ul li {
@@ -74,5 +75,12 @@ nav ul li {
 .links {
   display: flex;
   gap: 20px;
+  align-items: center;
+  a{
+    display: block;
+  }
+}
+@media screen and(max-width:1000px) {
+
 }
 </style>
