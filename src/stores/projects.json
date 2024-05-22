@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Some text",
+    "description": "text description",
+    "stackUsed": [0,1,5,3],
+    "imageUrl": "url/scr/blablabla.jpg",
+    "linkUrl": "rehferjfijerifjerfg",
+    "gitCodeUrl": "werfiwjfiwrej.github.com"
+  },
+  {
+    "id": 2,
+    "title": "Some text",
+    "description": "text description",
+    "stackUsed": [5,3,1],
+    "imageUrl": "url/scr/blablabla.jpg",
+    "linkUrl": "rehferjfijerifjerfg",
+    "gitCodeUrl": "werfiwjfiwrej.github.com"
+  }
+]

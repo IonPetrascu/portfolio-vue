@@ -1,0 +1,53 @@
+{
+  "aboutMe": "The Generator App is an online tool that helps you to export ready-made templates ready to work as your future website. It helps you to combine slides, panels and other components and export it as a set of static files: HTML/CSS/JS.",
+  "experience":[
+    {
+      "jobTitle":"Web Developer intern",
+      "company":"Chrysopoeia",
+      "linkeInOfCompany":"https://www.linkedin.com/company/chrysopoeia-srl/",
+      "placeOfWork":"Republic of Moldova",
+      "typeOfEmployment":"Internship",
+      "time":"March 2024 - to present",
+      "description":""
+    }
+  ],
+  "education":[
+    {
+      "jobTitle":"Specialty - Computers",
+      "company":"Center of Excellence in Energy and Electronics",
+      "linkeInOfCompany":"https://ceee.md/",
+      "placeOfWork":"Republic of Moldova",
+      "time":"2018 - 2022",
+      "description":"Computer technical support technician in the field of manufacturing, servicing, operating, installing, troubleshooting, testing and repairing computing technology."
+    }
+  ],
+  "licenseAndCertificates":[
+    {
+      "jobTitle":"Front-End Development",
+      "company":"Beetroot Academy",
+      "linkeInOfCompany":"https://www.linkedin.com/school/beetrootacademy/",
+      "placeOfWork":"Republic of Moldova",
+      "typeOfEmployment":"",
+      "time":"August 2023 - December 2023",
+      "description":"During the program I learned HTML, CSS, JavaScript and basic web design principles"
+    },
+     {
+      "jobTitle":"Wordpress Developer",
+      "company":"zota.team",
+      "linkeInOfCompany":"https://www.linkedin.com/company/zota-team/?originalSubdomain=md",
+      "placeOfWork":"Republic of Moldova",
+      "typeOfEmployment":"",
+      "time":"July 17 2023 - July 28 2023",
+      "description":"Learned the fundamentals of WordPress development, including theme customization, plugin implementation, and content management system (CMS) functionality."
+    },
+    {
+      "jobTitle":"Responsive Web Design",
+      "company":"freeCodeCamp",
+      "linkeInOfCompany":"https://www.linkedin.com/company/zota-team/?originalSubdomain=md",
+      "placeOfWork":"Republic of Moldova",
+      "typeOfEmployment":"",
+      "time":"October 5 ,2023",
+      "description":"Learned the fundamentals of WordPress development, including theme customization, plugin implementation, and content management system (CMS) functionality."
+    }
+  ]
+}
